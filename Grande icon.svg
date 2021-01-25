@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="26" height="28" viewBox="0 0 26 28">
+  <defs>
+    <clipPath id="clip-Grande_icon">
+      <rect width="26" height="28"/>
+    </clipPath>
+  </defs>
+  <g id="Grande_icon" data-name="Grande icon" clip-path="url(#clip-Grande_icon)">
+    <rect width="26" height="28" fill="#fff"/>
+    <rect id="Rectangle_1" data-name="Rectangle 1" width="26" height="28" fill="#fffdf5"/>
+    <g id="Group_3" data-name="Group 3" transform="translate(-5 -5)">
+      <g id="Group_2" data-name="Group 2">
+        <g id="Group_1" data-name="Group 1">
+          <text id="G" transform="matrix(-1, 0, 0, 1, 15, 26)" font-size="27" font-family="CormorantGaramond-Regular, Cormorant Garamond"><tspan x="-9.639" y="0">G</tspan></text>
+          <text id="C" transform="translate(22 26)" font-size="27" font-family="CormorantGaramond-Regular, Cormorant Garamond"><tspan x="-9.261" y="0">C</tspan></text>
+        </g>
+      </g>
+      <text id="Grande_Castia" data-name="Grande Castia" transform="translate(18 31)" font-size="4" font-family="CormorantGaramond-Regular, Cormorant Garamond"><tspan x="-11.25" y="0">Grande Castia</tspan></text>
+    </g>
+  </g>
+</svg>
